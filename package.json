@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@rolldown/plugin-babel": "^0.2.4",
+    "babel-plugin-react-compiler": "^1.0.0"
+  }
+}
